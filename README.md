@@ -93,7 +93,7 @@ _Rich messaging features including status indicators_
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/nagyyasser2/Real-Time-Chat-App.git
+   git clone https://github.com/nagiyasserahmed/Sahab
    cd Real-Time-Chat-App
    ```
 
